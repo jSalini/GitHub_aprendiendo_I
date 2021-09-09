@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2? family = Neucha & family = Roboto + Condensed: wght @ 300; 400; 700 & display = swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family:'Roboto Condensed', sans-serif;
+ 
+}
+
+html{
+    font-size: 16px;
+}
+
+
+nav img{
+ width: 100px;
+}
+article img{
+ width: 100px;
+}
+
+footer{
+     background-color: #DEE5FD;
+     padding: 50px;
+     padding-bottom: 3rem;
+}
+
